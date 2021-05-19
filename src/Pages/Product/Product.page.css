@@ -1,0 +1,49 @@
+.product {
+  background-color: white;
+  padding-left: 5%;
+  width: 100%;
+  float: left;
+}
+
+.contenedor-img {
+  text-align: left;
+  float: left;
+}
+
+.detail {
+  padding-top: 30px;
+  text-align: left;
+  float: left;
+  width: 50%;
+}
+
+.img {
+  width: 35%;
+  float: left;
+}
+
+.header {
+  padding-bottom: 30px;
+  text-align: left;
+  font-size: 30px;
+}
+
+.category {
+  text-align: left;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.title {
+  text-align: left;
+  font-size: 25px;
+  font-weight: bold;
+}
+.description {
+  font-size: 20px;
+}
+
+.price {
+  font-size: 35px;
+  font-weight: bold;
+}
